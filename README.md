@@ -1,2 +1,2 @@
 # AssignmentThree-kubra-cansu-ilayda-erdin-enes
-Trendyol-BasketPage 
+Trendyol-BasketPage UI Test
